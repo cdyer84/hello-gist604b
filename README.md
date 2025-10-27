@@ -28,3 +28,5 @@ This repository demonstrates GitHub skills including:
 To run the hello script:
 ```bash
 python scripts/hello.py
+
+For more information, visit the [University of Arizona GIS Program](https://geography.arizona.edu/graduate-programs/gis-technology).
